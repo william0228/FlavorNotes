@@ -1,3 +1,5 @@
+# FlavorNotes
+
 ### Steps to Run the App
 1. Clone the repository from the GitHub: https://github.com/william0228/FlavorNotes.git
 2. Use Xcode to open the project and hit run (Cause the app fetchs data from remote JSON file, please also make sure the network connection)
